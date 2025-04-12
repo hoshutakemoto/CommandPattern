@@ -1,0 +1,12 @@
+{
+    "name": "com.hoshutakemoto.command-pattern",
+    "version": "1.0.0",
+    "displayName": "Command Pattern",
+    "description": "A lightweight undoable command pattern package for Unity.",
+    "unity": "2021.3",
+    "author": {
+        "name": "Hoshu Takemoto",
+        "url": "https://github.com/hoshutakemoto"
+    },
+    "dependencies": {}
+}
